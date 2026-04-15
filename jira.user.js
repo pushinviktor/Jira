@@ -2,7 +2,7 @@
 // @name         Jira
 // @description  Show Jira ticket info on hover in Chatwoot
 // @namespace    http://tampermonkey.net/
-// @version      2
+// @version      3
 // @author       pushinviktor
 // @match        *://app.chatwoot.com/*
 // @updateURL    https://raw.githubusercontent.com/pushinviktor/Jira/main/jira.user.js
@@ -10,6 +10,7 @@
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @connect      jira.deversin.com
+// test update check
 // ==/UserScript==
 
 (function() {
